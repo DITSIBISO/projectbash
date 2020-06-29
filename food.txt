@@ -1,6 +1,6 @@
 pap
 chicken
 rice
-beef
+carry-beef
 macaroni
-liver
+chill-liver
