@@ -5,4 +5,4 @@ tumi
 shebi
 kabelo
 lesego
-tshego
+tshego-lebogang
